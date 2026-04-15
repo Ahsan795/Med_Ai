@@ -34,11 +34,8 @@ mediAI/
 │   │   │   └── CheckInModal.jsx         # Daily health check-in popup
 │   │   └── services/
 │   │       └── api.js                   # All API calls + speechService + locationService
-│   ├── index.html
-│   ├── package.json
-│   ├── vite.config.js
-│   └── .env.example
-│
+│   ├── start.bat
+│   ├── start.sh
 └── README.md
 ```
 
